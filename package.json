@@ -1,0 +1,29 @@
+{
+  "name": "devops-midterm-23-ntu-cs-1200",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node --test",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheikhzainfiaz/devops-midterm-23-ntu-cs-1200.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sheikhzainfiaz/devops-midterm-23-ntu-cs-1200/issues"
+  },
+  "homepage": "https://github.com/sheikhzainfiaz/devops-midterm-23-ntu-cs-1200#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.15.0",
+    "globals": "^17.14.0"
+  }
+}
